@@ -1,0 +1,56 @@
+SonarQube plugins:
+  - CSS Code Quality and Security 1.3.2.1782 (cssfamily)
+  - PL/SQL Code Quality and Security 3.5.1.3594 (plsql)
+  - Scala Code Quality and Security 1.8.2.1946 (sonarscala)
+  - C# Code Quality and Security 8.18.0.27296 (csharp)
+  - Vulnerability Analysis 8.7.0.7826 (security)
+  - Java Code Quality and Security 6.12.0.24852 (java)
+  - HTML Code Quality and Security 3.3.0.2534 (web)
+  - Flex Code Quality and Security 2.6.0.2294 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - VB.NET Code Quality and Security 8.18.0.27296 (vbnet)
+  - Swift Code Quality and Security 4.3.0.4687 (swift)
+  - CFamily Code Quality and Security 6.17.0.27551 (cpp)
+  - Python Code Quality and Security 3.2.0.7856 (python)
+  - Go Code Quality and Security 1.8.2.1946 (go)
+  - JaCoCo 1.1.0.898 (jacoco)
+  - Kotlin Code Quality and Security 1.8.2.1946 (kotlin)
+  - RPG Code Quality 2.5.0.2338 (rpg)
+  - PL/I Code Quality and Security 1.11.0.2617 (pli)
+  - T-SQL Code Quality and Security 1.5.0.3958 (tsql)
+  - VB6 Code Quality and Security 2.7.0.2497 (vb)
+  - Apex Code Quality and Security 1.8.2.1946 (sonarapex)
+  - JavaScript/TypeScript Code Quality and Security 7.2.0.14938 (javascript)
+  - Ruby Code Quality and Security 1.8.2.1946 (ruby)
+  - Vulnerability Rules for C# 8.7.0.7826 (securitycsharpfrontend)
+  - Vulnerability Rules for Java 8.7.0.7826 (securityjavafrontend)
+  - License for SonarLint 8.7.0.41497 (license)
+  - Vulnerability Rules for JS 8.7.0.7826 (securityjsfrontend)
+  - COBOL Code Quality 4.6.0.4639 (cobol)
+  - Vulnerability Rules for Python 8.7.0.7826 (securitypythonfrontend)
+  - PHP Code Quality and Security 3.15.0.7197 (php)
+  - ABAP Code Quality and Security 3.9.0.2739 (abap)
+  - Vulnerability Rules for PHP 8.7.0.7826 (securityphpfrontend)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AXf9wy4J840Atk_4Xzbk
+  - sonar.core.startTime=2021-05-05T14:12:39+0200
+  - sonar.dbcleaner.branchesToKeepWhenInactive=master,develop,trunk
+  - sonar.forceAuthentication=true
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.javascript.lcov.reportPath=report/lcov.dat
+  - sonar.login=******
+  - sonar.password=******
+  - sonar.projectBaseDir=/Users/krzysztofjazgara/hsbc
+  - sonar.projectKey=bitbucket_test
+  - sonar.projectName=bitbucket_test
+  - sonar.projectVersion=1.2
+  - sonar.pullrequest.branch=branch-1
+  - sonar.pullrequest.key=1
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.5.0.2216
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=sources
+  - sonar.verbose=true
+  - sonar.working.directory=/Users/krzysztofjazgara/hsbc/.scannerwork
